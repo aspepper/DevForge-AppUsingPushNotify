@@ -1,0 +1,42 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0-android</TargetFramework>
+		<SupportedOSPlatformVersion>34.0</SupportedOSPlatformVersion>
+		<Nullable>enable</Nullable>
+		<ApplicationId>AppUsingPushNotify.Android</ApplicationId>
+		<ApplicationVersion>1</ApplicationVersion>
+		<ApplicationDisplayVersion>1.0</ApplicationDisplayVersion>
+		<AndroidPackageFormat>apk</AndroidPackageFormat>
+		<AndroidEnableProfiledAot>False</AndroidEnableProfiledAot>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<None Remove="google-services.json" />
+		<None Remove="Resources\drawable\ic_stat_ic_notification.png" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<AndroidResource Include="Icon.png">
+			<Link>Resources\drawable\Icon.png</Link>
+		</AndroidResource>
+	</ItemGroup>
+
+	<ItemGroup>
+		<GoogleServicesJson Include="google-services.json" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Avalonia.Android" Version="11.0.11" />
+		<PackageReference Include="FirebaseAdmin" Version="3.0.0" />
+		<PackageReference Include="Xamarin.AndroidX.Core.SplashScreen" Version="1.0.1.9" />
+		<PackageReference Include="Xamarin.Firebase.Core" Version="121.1.1.9" />
+		<PackageReference Include="Xamarin.Firebase.Messaging" Version="124.0.0" />
+		<PackageReference Include="Xamarin.Google.Dagger" Version="2.50.0" />
+		<PackageReference Include="Xamarin.GooglePlayServices.Base" Version="118.4.0" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\AppUsingPushNotify\AppUsingPushNotify.csproj" />
+	</ItemGroup>
+</Project>

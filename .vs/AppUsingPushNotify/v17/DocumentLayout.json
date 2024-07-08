@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|c:\\projects\\devforge\\appusingpushnotify.old\\appusingpushnotify\\appusingpushnotify.android\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|solutionrelative:appusingpushnotify\\appusingpushnotify.android\\firebaseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|c:\\projects\\devforge\\appusingpushnotify.old\\appusingpushnotify\\appusingpushnotify.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|solutionrelative:appusingpushnotify\\appusingpushnotify.android\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|c:\\projects\\devforge\\appusingpushnotify.old\\appusingpushnotify\\appusingpushnotify.android\\appusingpushnotify.android.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|solutionrelative:appusingpushnotify\\appusingpushnotify.android\\appusingpushnotify.android.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|c:\\projects\\devforge\\appusingpushnotify.old\\appusingpushnotify\\appusingpushnotify.android\\google-services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|solutionrelative:appusingpushnotify\\appusingpushnotify.android\\google-services.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|c:\\projects\\devforge\\appusingpushnotify.old\\appusingpushnotify\\appusingpushnotify.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|solutionrelative:appusingpushnotify\\appusingpushnotify.android\\properties\\androidmanifest.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|c:\\projects\\devforge\\appusingpushnotify.old\\appusingpushnotify\\appusingpushnotify.android\\notificationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{528A94F2-BA03-467D-B210-8284A8B1378D}|AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj|solutionrelative:appusingpushnotify\\appusingpushnotify.android\\notificationhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 22,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NotificationHelper.cs",
+              "DocumentMoniker": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\NotificationHelper.cs",
+              "RelativeDocumentMoniker": "AppUsingPushNotify\\AppUsingPushNotify.Android\\NotificationHelper.cs",
+              "ToolTip": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\NotificationHelper.cs",
+              "RelativeToolTip": "AppUsingPushNotify\\AppUsingPushNotify.Android\\NotificationHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T14:35:46.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "google-services.json",
+              "DocumentMoniker": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\google-services.json",
+              "RelativeDocumentMoniker": "AppUsingPushNotify\\AppUsingPushNotify.Android\\google-services.json",
+              "ToolTip": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\google-services.json",
+              "RelativeToolTip": "AppUsingPushNotify\\AppUsingPushNotify.Android\\google-services.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-05T12:21:39.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AndroidManifest.xml",
+              "DocumentMoniker": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\Properties\\AndroidManifest.xml",
+              "RelativeDocumentMoniker": "AppUsingPushNotify\\AppUsingPushNotify.Android\\Properties\\AndroidManifest.xml",
+              "ToolTip": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\Properties\\AndroidManifest.xml",
+              "RelativeToolTip": "AppUsingPushNotify\\AppUsingPushNotify.Android\\Properties\\AndroidManifest.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-07-04T22:41:40.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppUsingPushNotify.Android.csproj",
+              "DocumentMoniker": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj",
+              "RelativeDocumentMoniker": "AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj",
+              "ToolTip": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj",
+              "RelativeToolTip": "AppUsingPushNotify\\AppUsingPushNotify.Android\\AppUsingPushNotify.Android.csproj",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T23:51:16.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\MainActivity.cs",
+              "RelativeDocumentMoniker": "AppUsingPushNotify\\AppUsingPushNotify.Android\\MainActivity.cs",
+              "ToolTip": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\MainActivity.cs",
+              "RelativeToolTip": "AppUsingPushNotify\\AppUsingPushNotify.Android\\MainActivity.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAlwDIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:48:51.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirebaseService.cs",
+              "DocumentMoniker": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\FirebaseService.cs",
+              "RelativeDocumentMoniker": "AppUsingPushNotify\\AppUsingPushNotify.Android\\FirebaseService.cs",
+              "ToolTip": "C:\\Projects\\DevForge\\AppUsingPushNotify.OLD\\AppUsingPushNotify\\AppUsingPushNotify.Android\\FirebaseService.cs",
+              "RelativeToolTip": "AppUsingPushNotify\\AppUsingPushNotify.Android\\FirebaseService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T23:41:29.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

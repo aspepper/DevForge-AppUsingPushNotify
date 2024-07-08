@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532149143610",
+    "project_id": "appavaloniatestepushnotify",
+    "storage_bucket": "appavaloniatestepushnotify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532149143610:android:1888660042727c61fc8d03",
+        "android_client_info": {
+          "package_name": "AppUsingPushNotify.Android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2Ag1IY0r9Aqs6iwFE_kPsgRWFPhAM6fM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
